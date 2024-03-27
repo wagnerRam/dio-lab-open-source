@@ -3,7 +3,7 @@
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
-
+##
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
@@ -66,11 +66,14 @@ Aprender o básico sobre contribuição no GitHub.
   <tfoot></tfoot>
 </table>
 
----
+##
+
 ##  Desafio: Profile README
 
  Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+
+##
 
 ### Instruções (PT/BR)
 1. Faça um **Fork** deste repositório;
@@ -86,7 +89,9 @@ Aprender o básico sobre contribuição no GitHub.
 7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
-10. Crie um **Pull Request**.
+10. Crie um **Pull Request**.\
+    
+##
 
 ### Instructions (EN/US)
 1. **Fork** this repository;
@@ -104,6 +109,8 @@ Aprender o básico sobre contribuição no GitHub.
 9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
 10. Create a **Pull Request**.
 
+##
+
 ### Instrucciones (ES/ES)
 1. Haz un **Fork** de este repositorio;
 2. Clona localmente: `git clone https://github.com/TU_USERNAME/dio-lab-open-source.git`;
@@ -120,6 +127,8 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+##
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
@@ -127,6 +136,7 @@ Aprender o básico sobre contribuição no GitHub.
 [![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
 ---
+##
 
 ## Contribua
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
